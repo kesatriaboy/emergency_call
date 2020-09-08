@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".SplashScreen"
+    android:background="#4D4D4D">
+
+
+    <ImageView
+        android:id="@+id/mid_logo"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/logo_emergency"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="456dp"
+        android:fontFamily="sans-serif-light"
+        android:text="@string/eca"
+        android:textColor="#fff"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:layout_below="@+id/mid_logo"/>
+
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/logo_diskominfo"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp" />
+
+<!--    <TextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="FIRODEV"-->
+<!--        android:layout_marginBottom="64dp"-->
+<!--        android:textSize="32sp"-->
+<!--        android:textStyle="normal"-->
+<!--        android:fontFamily="sans-serif-light"-->
+<!--        android:textColor="#fff"-->
+<!--        android:layout_alignParentBottom="true"-->
+<!--        android:layout_centerHorizontal="true" />-->
+
+</RelativeLayout>

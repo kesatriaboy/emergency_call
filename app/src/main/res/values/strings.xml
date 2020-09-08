@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Emergency ASAHAN</string>
+    <string name="name">Nama Instansi</string>
+    <string name="date">Tanggal</string>
+    <string name="address">Alamat</string>
+    <string name="numberPhn">Nomor Telepon</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="submit">Simpan</string>
+    <string name="delete">Hapus</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="menu_admin">Login Admin</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="kategori">Kategori</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="status">Status</string>
+    <string name="nik">NIK</string>
+    <string name="pelapor">Pelapor</string>
+    <string name="no_pelapor">Nomor Pelapor</string>
+    <string name="register">Masuk</string>
+    <string name="nama_pelapor">Nama Lengkap</string>
+    <string name="warning">Pemberian data atau informasi yang tidak benar dapat dianggap sebagai suatu perbuatan melawan hukum dengan ancaman pidana</string>
+    <string name="eca">Emergency Call</string>
+</resources>
